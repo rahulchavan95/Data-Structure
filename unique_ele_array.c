@@ -13,8 +13,7 @@ int main()
         printf("%d ",arr[i]);
     }
     printf("\n");
-    //printf("max= %d\n",max);
-    //printf("sum= %d\n",sum);
+
     int a=max*(max+1);
     int Unique=a-sum;
 
